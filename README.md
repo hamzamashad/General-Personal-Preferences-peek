@@ -1,2 +1,2 @@
-# HTML-Main-Assignment
-link to my webpage: https://hamzamashad.github.io/HTML-Main-Assignment/
+# General-Personal-Preferences-peek
+link: https://hamzamashad.github.io/General-Personal-Preferences-peek/
